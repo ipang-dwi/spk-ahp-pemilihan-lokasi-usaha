@@ -28,5 +28,7 @@ Elements :
 - Datatables v1.x
 - Chart.js v1.x
 
-Feel free to reach me on : 
-www.firstplato.com
+Feel free to reach me on :
+- https://www.firstplato.com
+- https://www.facebook.com/firstplato
+- admin@firstplato.com
