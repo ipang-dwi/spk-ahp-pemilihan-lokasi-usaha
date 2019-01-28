@@ -1,5 +1,7 @@
 # spk-ahp-pemilihan-lokasi-usaha
 
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 Aplikasi Sistem Pendukung Keputusan Penentuan Lokasi  Mendirikan Usaha Pencucian Mobil dan Sepeda Motor, berbasis web menggunakan native PHP5
 
 Semoga bisa bermanfaat, bagi yang ingin mempelajari :
