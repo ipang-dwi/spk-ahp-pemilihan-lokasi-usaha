@@ -1,12 +1,1 @@
-<?php
-	include('config.php');
-	
-	$result = $mysqli->query("delete from alternatif where id_alternatif = ".$_GET['id'].";");
-	if(!$result){
-		echo $mysqli->connect_errno." - ".$mysqli->connect_error;
-		exit();
-	}
-	else{
-		header('Location: alternatif.php');
-	}
-?>
+Lakukan donasi untuk file ini, wa 0856-48587-856 Baca di file README di dalam project ini.
