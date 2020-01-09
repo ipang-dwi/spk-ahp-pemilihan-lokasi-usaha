@@ -17,7 +17,8 @@ Instalasi :
 - Tes jalankan pada browser.
 
 Preview :
-http://imgur.com/a/BCD7g
+- http://imgur.com/a/BCD7g
+- https://lab.firstplato.com/ahpca
 
 Minimum requirements :
 - PHP 5.x
